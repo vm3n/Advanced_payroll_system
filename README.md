@@ -35,7 +35,8 @@ The Payroll Management System is designed to securely manage payroll operations 
 - **Backend:**
   Node.js, Express.js, MySQL.
 
-- **Other Tools:**postman, corn jobs.
+- **Other Tools:**
+  postman, corn jobs.
 
 -**SQL Database:**
 In order to create database, run the files in folder:payroll-DB
