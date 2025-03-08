@@ -41,11 +41,11 @@ The Payroll Management System is designed to securely manage payroll operations 
 In order to create database, run the files in folder:payroll-DB
 
 - **To run the application in backend:**
-  cd payroll-backend
-  npm install
-  node app.js
+ - cd payroll-backend
+ - npm install
+ - node app.js
 
 -**To run the frontend:**
-cd payroll-frontend
-npm install
-npm start
+- cd payroll-frontend
+- npm install
+- npm start
